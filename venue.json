@@ -1,0 +1,37 @@
+{
+    "name": "venue",
+    "x_max": 1200,
+    "y_max": 800,
+    "origins": {
+        "1_name": "origin_1",
+        "1_x": 1200,
+        "1_y": 100,
+        "1_size": 100,
+        "1_flowrate": 60,
+        "2_name": "origin_2",
+        "2_x": 1200,
+        "2_y": 400,
+        "2_size": 100,
+        "2_flowrate": 60,
+        "3_name": "origin_3",
+        "3_x": 1200,
+        "3_y": 700,
+        "3_size": 100,
+        "3_flowrate": 60,
+        "distribution": "uniform"
+    },
+    "checkpoints": {
+        "1_name": "checkpoint_1",
+        "1_x": 800,
+        "1_y": 700,
+        "1_flowrate": 6,
+        "2_name": "checkpoint_2",
+        "2_x": 400,
+        "2_y": 100,
+        "2_flowrate": 6,
+        "3_name": "checkpoint_2",
+        "3_x": 0,
+        "3_y": 400,
+        "3_flowrate": 6
+    }
+}
